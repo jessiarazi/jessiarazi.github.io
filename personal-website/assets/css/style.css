@@ -594,7 +594,7 @@ p {
 # Services
 --------------------------------------------------------------*/
 #services {
-  background: #f7f7f7;
+  background: #ffffff;
   position: relative;
   padding-bottom: 80px;
 }
@@ -645,6 +645,7 @@ p {
 #portfolio {
   position: relative;
   padding-bottom: 50px;
+  background-color: #f7f7f7;;
 }
 
 #portfolio #portfolio-flters {
@@ -803,7 +804,7 @@ p {
 #journal-blog {
   height: auto;
   width: 100%;
-  background: #f7f7f7;
+  background: #ffffff;
   padding-bottom: 60px;
   position: relative;
 }
@@ -859,6 +860,7 @@ p {
 #contact {
   height: auto;
   width: 100%;
+  background-color: #f7f7f7;;
 }
 
 .contact-details {
@@ -1073,7 +1075,7 @@ blockquote {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #f7f7f7;
+  background: #ffffff;
   padding-top: 50px;
   padding-bottom: 50px;
 }
